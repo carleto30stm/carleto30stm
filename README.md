@@ -8,5 +8,13 @@
 - 🔭 I’m currently working freelance
 - 🌱 I’m currently learning Reactjs
 - 👯 I am here to work with you
-- 🌐 my portfolio [https://carleto30stm.github.io/porfolio/]
+- 🌐 my portfolio: https://carleto30stm.github.io/porfolio/
+
+<div align="left">
+    <h3>🔨 Langueges and Tools:</h3>
+    <div>
+        <img src="" alt="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg" width="40" height="40">
+    </div>
+
+</div>
 
