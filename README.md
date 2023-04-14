@@ -14,6 +14,13 @@
     <h3> Langueges and Tools:</h3>
     <div>
         <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg" alt="HTML" title="HTL" width="40" height="40">
-    </div>
+        <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg" alt="CSS" title="CSS" width="40" height="40">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" alt="" title="" width="40" height="40">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" alt="" title="" width="40" height="40">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-plain.svg" alt="" title="" width="40" height="40">
+        <img src="" alt="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain.svg" title="" width="40" height="40">
+        <img src="" alt="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="" width="40" height="40">
 
+    </div>
+    
 </div>
