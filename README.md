@@ -11,10 +11,9 @@
 - 🌐 my portfolio: https://carleto30stm.github.io/porfolio/
 
 <div align="left">
-    <h3>🔨 Langueges and Tools:</h3>
+    <h3> Langueges and Tools:</h3>
     <div>
-        <img src="" alt="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="40" height="40">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg" alt="HTML" title="HTL" width="40" height="40">
     </div>
 
 </div>
-
