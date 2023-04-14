@@ -4,7 +4,7 @@
     <h3 align="center">I am passionate about web development, sports and reading.</h3>
 </div>
 ---
-👨‍💻 About Me :
+
 - 🔭 I’m currently working freelance
 - 🌱 I’m currently learning Reactjs
 - 👯 I am here to work with you
