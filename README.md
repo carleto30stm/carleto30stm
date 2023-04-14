@@ -9,7 +9,7 @@
 - 🌱 I’m currently learning Reactjs
 - 👯 I am here to work with you
 - 🌐 my portfolio: https://carleto30stm.github.io/porfolio/
-
+---
 <div align="left">
     <h3>🔨 Langueges and Tools:</h3>
     <div>
