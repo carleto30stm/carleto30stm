@@ -18,8 +18,8 @@
         <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" alt="" title="" width="40" height="40">
         <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" alt="" title="" width="40" height="40">
         <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-plain.svg" alt="" title="" width="40" height="40">
-        <img src="" alt="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain.svg" title="" width="40" height="40">
-        <img src="" alt="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="" width="40" height="40">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain.svg" alt="" title="" width="40" height="40">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="" title="" width="40" height="40">
 
     </div>
     
